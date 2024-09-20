@@ -30,6 +30,12 @@ const CONFIG = {
       '',
   },
   skills: [
+    'Bash',
+    'Docker',
+    'Git',
+    'HTML',
+    'PowerShell',
+    'Rust',
   ],
   googleAnalytics: {
     id: 'G-RSD2SW947P',
